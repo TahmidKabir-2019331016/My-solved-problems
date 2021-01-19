@@ -34,7 +34,7 @@ void solve(){
     }
     cout << "NO" << lin;
 }
-
+//driver function
 int main(){
     int t = 1;
     cin >> t;
